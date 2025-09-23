@@ -12,7 +12,7 @@ body {
   font-size: 18px;
 
   /* line-height: 21px; */
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
@@ -71,7 +71,7 @@ address {
   font-size: 56px;
 
   /* line-height: 60px; */
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
@@ -156,7 +156,7 @@ address {
   font-size: 36px;
 
   /* line-height: 40px; */
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -206,14 +206,13 @@ address {
   font-size: 18px;
 
   /* line-height: 21px; */
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-}
-.dark-footer {
   color: #4d5ae5;
 }
+
 .light-footer {
   color: #f4f4fd;
 }
